@@ -5,5 +5,5 @@ github "FabrizioBrancati/Queuer" ~> 2.0.1
 github "SwiftyBeaver/SwiftyBeaver" ~> 1.6.1
 github "marmelroy/Zip" ~> 1.1
 github "realm/realm-cocoa" ~> 3.13
-github "cezheng/Fuzi" ~> 2.1
+github "jake74/Fuzi" ~> 2.1
 github "radex/SwiftyUserDefaults" "4.0.0"
